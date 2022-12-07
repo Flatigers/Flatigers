@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Flatigers
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# It's Flatig
 
-<!---
-Flatigers/Flatigers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A student interested in programming.
+Love computer, love coding.
+
+- 在校大学生
+- 热爱计算机，喜欢编程
+- Android，Java/kotlin，Rust，Python，GoLang
+- 骑行足球羽毛球跑步
+
+
+"Keep looking, and don't settle"
